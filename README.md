@@ -1,7 +1,7 @@
 <h1> ThucTapCSDL_20205008 </h1>
-#Mid-Term:Thuc tap CSDL <br />
-#ClassID:Việt Nhật 03 K65 <br />
-#StudentID:20205008        <br />
-#StudentName:Nguyễn Đức Nghĩa 20205008 <br />
+<h2>#Mid-Term:Thuc tap CSDL</h2>
+<h2>#ClassID:Việt Nhật 03 K65</h2>
+<h2>#StudentName:Nguyễn Đức Nghĩa</h2>
+<h2>#StudentID:20205008</h2>
 ThiGK_CSDL
 
