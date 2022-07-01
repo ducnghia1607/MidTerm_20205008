@@ -11,5 +11,5 @@
     <li>Assignment5: <b><a href="./assignment5">ASM for Mid-term Group 6</a></b></li>
     <li>Assignment6: <b><a href="./assignment6">Lab 8</a></b></li>
     <li>Assignment7: <b><a href="./assignment7">Lab 9</a></b></li>
-    <li>Assignment7: <b><a href="./assignment8">Lab 10</a></b></li>
+    <li>Assignment8: <b><a href="./assignment8">Lab 10</a></b></li>
 </ul>
