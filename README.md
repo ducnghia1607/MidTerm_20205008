@@ -12,4 +12,6 @@
     <li>Assignment6: <b><a href="./assignment6">Lab 8</a></b></li>
     <li>Assignment7: <b><a href="./assignment7">Lab 9</a></b></li>
     <li>Assignment8: <b><a href="./assignment8">Lab 10</a></b></li>
+    <li>Assignment9: <b><a href="./assignment9">Lab 12</a></b></li>
+    <li>Assignment10: <b><a href="./assignment10">Lab 13</a></b></li>
 </ul>
